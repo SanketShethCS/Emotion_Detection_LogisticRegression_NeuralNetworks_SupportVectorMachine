@@ -1,1 +1,1 @@
-# Emotion_Detection_LinearRegression_NeuralNetworks_SupportVectorMachine
+# Emotion_Detection_LogistcRegression_NeuralNetworks_SupportVectorMachine
